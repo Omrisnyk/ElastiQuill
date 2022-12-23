@@ -38,7 +38,7 @@
     "inbound": "0.0.6",
     "joi": "^14.3.1",
     "js-yaml": "^3.13.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "4.17.11",
     "markdown-it": "^8.4.2",
     "md5": "^2.2.1",
